@@ -18,13 +18,6 @@ The Project Committee sets high-level project requirements for joining the found
 
 Repository: https://github.com/dotnet-foundation/projects
 
-[__Maintainers__](https://github.com/dotnet-foundation/wg-maintainers)
-
-
-This committee is aimed at supporting maintainers of open source projects.
-
-Repository: https://github.com/dotnet-foundation/wg-maintainers
-
 
 [__Marketing__](https://github.com/dotnet-foundation/wg-marketing#readme)
 
@@ -44,11 +37,6 @@ The outreach committee is here to welcome developers of all backgrounds, educati
 
 Repository: https://github.com/dotnet-foundation/wg-outreach
 
-[__Sponsorship__](https://github.com/dotnet-foundation/wg-corporate-relations#readme)
-
-The committee is responsible for working with corporate sponsors of the foundation and acquiring new sponsors.
-
-Repository: https://github.com/dotnet-foundation/wg-corporate-relations
 
 [__Education__](https://github.com/dotnet-foundation/wg-education#readme)
 
