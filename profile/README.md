@@ -18,13 +18,6 @@ The Project Committee sets high-level project requirements for joining the found
 
 Repository: https://github.com/dotnet-foundation/projects
 
-
-[__Marketing__](https://github.com/dotnet-foundation/wg-marketing#readme)
-
-The marketing committee is here to help spread the message of openness in the .NET ecosystem. We support community and project initiatives, drive awareness and increase membership. We create consistent, powerful storytelling to increase share of conversation and establish industry relevance for the .NET Foundation.
-
-Repository: https://github.com/dotnet-foundation/wg-marketing
-
 [__Membership__](https://github.com/dotnet-foundation/wg-membership#readme)
 
 The committee is responsible for evaluating new member applications and discussing membership criteria. 
