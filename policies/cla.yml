@@ -11,6 +11,7 @@ configuration:
          codeLines: 1
       bypassUsers:
          - dependabot[bot]
+         - elsa-workflows-codex[bot]
          - greenkeeper[bot]
          - dotnet-maestro[bot]
          - dependabot-preview[bot]
